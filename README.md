@@ -1,0 +1,1 @@
+En este proyecto voy a hacer una pagina que lleve a varias recetas. hasta ahora estaoy bastante familiarizado con HTML y se me hace bastante facil.

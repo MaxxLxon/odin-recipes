@@ -1,0 +1,60 @@
+.principal {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: gray;
+  color: black;
+  font-size: 60px;
+  width: 1300px;
+  height: 625px;
+  padding: 30px;
+  border: 5px solid black;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.titulo {
+  text-align: center;
+  width: 1000px;
+  background-color: rgb(230, 148, 162);
+  padding: 8px;
+  border: 2px solid white;
+  margin: 0 auto;
+}
+
+.links {
+  font-size: 40px;
+  display: inline;
+}
+
+.link-pabellon {
+  width: 350px;
+  text-align: center;
+  background-color: rgb(230, 148, 162);  
+  color: blue;
+  margin-left: 100px;
+  padding: 2px;
+  border: 2px solid white;
+}
+
+.link-carbonara {
+  width: 350px;
+  text-align: center;
+  background-color: rgb(230, 148, 162);  
+  color: blue;
+  margin-left: 100px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 2px;
+  border: 2px solid white;
+}
+
+.link-arepa {
+  width: 350px;
+  text-align: center;
+  background-color: rgb(230, 148, 162);  
+  color: blue;
+  margin-left: 100px;
+  padding: 2px;
+  border: 2px solid white;
+}
+
+
